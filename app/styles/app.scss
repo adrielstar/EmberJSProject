@@ -1,0 +1,22 @@
+@import "bootstrap";
+
+$padding: 0px;
+
+.container{
+    width: 100%;
+    padding-right: $padding;
+    padding-left: $padding;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.jumbotron{
+    margin-bottom: 0px;
+    color: inherit;
+    background-color:#fff;
+}
