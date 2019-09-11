@@ -1,5 +1,5 @@
 'use strict';
-var credential = require('../vendor/credential');
+var credential = require('../vendor/credential/credential');
 
 module.exports = function (environment) {
   let ENV = {
