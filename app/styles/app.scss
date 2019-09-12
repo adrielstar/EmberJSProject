@@ -1,9 +1,9 @@
-@import "bootstrap";
-
+@import "ember-cli-bootstrap-4/bootstrap";
 $padding: 0px;
 
 .container{
     width: 100%;
+    margin-top: 60px;
     padding-right: $padding;
     padding-left: $padding;
     margin-right: auto;
@@ -20,3 +20,4 @@ $padding: 0px;
     color: inherit;
     background-color:#fff;
 }
+@import "ember-cli-bootstrap-4/bootstrap";

@@ -20,12 +20,13 @@
   "devDependencies": {
     "@ember/jquery": "^0.5.2",
     "@ember/optional-features": "^0.6.3",
+    "bootstrap": "^4.3.1",
     "broccoli-asset-rev": "^2.7.0",
     "ember-ajax": "^3.1.0",
     "ember-cli": "~3.4.4",
     "ember-cli-app-version": "^3.2.0",
-    "ember-cli-babel": "^6.16.0",
-    "ember-cli-bootstrap-sassy": "^0.5.8",
+    "ember-cli-babel": "^6.18.0",
+    "ember-cli-bootstrap-4": "^0.10.1",
     "ember-cli-dependency-checker": "^3.0.0",
     "ember-cli-eslint": "^4.2.3",
     "ember-cli-htmlbars": "^3.0.0",
@@ -37,6 +38,7 @@
     "ember-cli-sri": "^2.1.1",
     "ember-cli-template-lint": "^1.0.0-beta.1",
     "ember-cli-uglify": "^2.1.0",
+    "ember-cli-update": "^0.43.3",
     "ember-data": "~3.4.0",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.1.0",
@@ -47,8 +49,9 @@
     "emberfire": "^2.0.10",
     "eslint-plugin-ember": "^5.2.0",
     "loader.js": "^4.7.0",
+    "popper.js": "^1.15.0",
     "qunit-dom": "^0.7.1",
-    "sass": "^1.23.0-module.beta.1"
+    "sass": "^1.22.12"
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
